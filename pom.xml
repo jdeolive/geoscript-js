@@ -6,7 +6,7 @@
     <packaging>jar</packaging>
     <version>1.0.0</version>
     <properties>
-        <gt.version>9.0</gt.version>
+        <gt.version>10-SNAPSHOT</gt.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
